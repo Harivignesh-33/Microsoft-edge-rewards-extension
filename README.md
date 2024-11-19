@@ -31,7 +31,7 @@ EdgeAutoMicrosoft is a lightweight browser extension designed to handle your Bin
 1. **Download the Extension**  
    - Clone this repository:  
      ```bash  
-     git clone https://github.com/your-repo-name/EdgeAutoMicrosoftRewards.git  
+     git clone https://github.com/Harivignesh-33/Microsoft-edge-rewards-extension.git  
      ```  
 
 2. **Load the Extension into Edge**:  
