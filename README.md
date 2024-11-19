@@ -1,0 +1,1 @@
+# Microsoft-edge-rewards-extension
